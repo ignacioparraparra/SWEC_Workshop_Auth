@@ -8,5 +8,3 @@
 └── server.js
      - application logic
 ```
-
-1 directory, 5 files
